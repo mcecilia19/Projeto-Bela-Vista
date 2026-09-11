@@ -1,0 +1,48 @@
+/* Título dos produtos */
+
+.card .card-title {
+    color: black !important;
+    font-weight: bold;
+
+    text-shadow:
+        -1px -1px 0 white,
+         1px -1px 0 white,
+        -1px  1px 0 white,
+         1px  1px 0 white;
+}
+
+
+/* Barra de navegação */
+
+nav {
+    background-color: #DCEAF0;
+}
+
+
+/* Logo */
+
+.logo {
+    height: 60px;
+}
+
+
+/* Imagens dos produtos */
+
+.card-image img {
+    height: 200px;
+    object-fit: cover;
+}
+.page-footer {
+    background-color: #DCEAF0;
+    padding: 10px 0;
+}
+
+.page-footer h5 {
+    margin: 5px 0;
+    font-size: 20px;
+}
+
+.page-footer p {
+    margin: 5px 0;
+    color: #1F2937;
+}
